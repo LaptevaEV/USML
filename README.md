@@ -7,3 +7,5 @@ http://nbviewer.jupyter.org/github/LaptevaEV/USML/blob/master/j_en/assignments_d
 
 ## Решение актуальных домашних заданий
 #### Assignment #1 http://nbviewer.jupyter.org/github/LaptevaEV/USML/blob/master/j_en/assignments_fall2018/assignment1_pandas_olympic.ipynb
+#### Assignment #2
+http://nbviewer.jupyter.org/github/LaptevaEV/USML/blob/master/j_en/assignments_fall2018/assignment2_USA_flights.ipynb
