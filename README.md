@@ -10,5 +10,7 @@ http://nbviewer.jupyter.org/github/LaptevaEV/USML/blob/master/j_en/assignments_d
 #### Assignment #2
 http://nbviewer.jupyter.org/github/LaptevaEV/USML/blob/master/j_en/assignments_fall2018/assignment2_USA_flights.ipynb
 
-#### Дерево решений
+
+
+#### Дерево решений (не доделано)
 http://nbviewer.jupyter.org/github/LaptevaEV/USML/blob/master/tree_homework/hw3-checkpoint.ipynb
