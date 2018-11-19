@@ -8,6 +8,8 @@ http://nbviewer.jupyter.org/github/LaptevaEV/USML/blob/master/j_en/assignments_d
 http://nbviewer.jupyter.org/github/LaptevaEV/USML/blob/master/j_en/assignments_demo/assignment05_logit_rf_credit_scoring.ipynb
 #### Assignment #6 (demo)
 http://nbviewer.jupyter.org/github/LaptevaEV/USML/blob/master/j_en/assignments_demo/assignment06_regression_wine.ipynb
+#### Assignment #7 (demo)
+http://nbviewer.jupyter.org/github/LaptevaEV/USML/blob/master/j_en/assignments_demo/assignment07_unsupervised_learning.ipynb
 
 ## Решение актуальных домашних заданий
 #### Assignment #1 http://nbviewer.jupyter.org/github/LaptevaEV/USML/blob/master/j_en/assignments_fall2018/assignment1_pandas_olympic.ipynb
